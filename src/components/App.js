@@ -1,3 +1,15 @@
+
+
+// └── App
+//     ├── PokemonPage
+//     ├── PokemonForm
+//     ├── Search
+//     |   └── Links
+//     └── PokemonCollection
+//         |   PokemonCard
+//         |   PokemonCard
+//         └── PokemonCard
+
 import React from "react";
 import PokemonPage from "./PokemonPage";
 
